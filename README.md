@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋, I'm Joseph Botros</h1>
 <h3 align="center">Software Engineer, with an academic edge</h3>
 
-- 🔭 I’m currently working on [B12Digital](http://b12app.com/)
+- 🔭 I’m currently working on [B12Digital](https://b12app.com/)
+- 🔭 Teaches Upskilling Web development courses [HTU](https://htuupskilling.com/)
 
 - 📫 How to reach me **jwasily@hotmail.com**
 
