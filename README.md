@@ -4,7 +4,7 @@
 - 🔭 I’m currently working @ [B12Digital](https://b12app.com/)
 - 🔭 Teaches Upskilling Web development courses @ [HTU](https://htuupskilling.com/)
 
-- 📫 How to reach me **jwasily@hotmail.com**
+- 📫 How to reach me **jwasily at hotmail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
