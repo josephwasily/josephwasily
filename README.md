@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer, with an academic edge</h3>
 
 - 🔭 I’m currently working @ [B12Digital](https://b12app.com/)
-- 🔭 Teaches Upskilling Web development courses @ [HTU](https://htuupskilling.com/)
+- 🔭 Teaching Upskilling Web development courses @ [HTU](https://htuupskilling.com/)
 
 - 📫 How to reach me **jwasily at hotmail**
 
