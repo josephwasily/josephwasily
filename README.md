@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working @ [B12Digital](https://b12app.com/)
 - 🔭 Teaching Upskilling Web development courses @ [HTU](https://htuupskilling.com/)
+- 🔭 Studying MS in Software Engineering @ [Philadelphia University of Jordan](https://philadelphia.edu.jo/)
 
 
 <h3 align="left">Connect with me:</h3>
